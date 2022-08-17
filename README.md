@@ -14,7 +14,7 @@ Application to generate electricity bills
  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  
-  ### ✅ Screenshots from some of the screens on the Application
+  ### ✅ Screenshots from some of the pages on the Application
   
   <img width="637" alt="Screenshot 2022-08-17 at 23 56 35" src="https://user-images.githubusercontent.com/78003803/185251147-1f80828c-0195-422b-b0e7-dbd77e0e68c3.png">
   <img width="637" alt="Screenshot 2022-08-17 at 23 57 31" src="https://user-images.githubusercontent.com/78003803/185253037-1874c58d-c713-48f4-a282-4ce3bf2d4ea7.png">
